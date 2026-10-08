@@ -52,7 +52,7 @@ Both projects are complete as they are; nothing is locked behind a payment.
 ## Support the work
 
 Both projects are free and stay free. If one of them saves you an evening, a tip is welcome:
-**[paypal.me/vipermark2](https://paypal.me/vipermark2)** — ideally 5 € / $5 / 5 CHF or more, PayPal keeps a fixed
+**[paypal.me/dropnook](https://paypal.me/dropnook)** — ideally 5 € / $5 / 5 CHF or more, PayPal keeps a fixed
 fee of every payment.
 
 Found a bug or have an idea? Open an issue in the project's repository — that is the fastest way to reach me.
