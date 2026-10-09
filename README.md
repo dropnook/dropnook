@@ -31,7 +31,7 @@ Both projects are complete as they are; nothing is locked behind a payment.
       <a href="https://github.com/dropnook/UnraidSecretaryOffice"><img src="https://raw.githubusercontent.com/dropnook/dropnook/main/.github/uso-icon.svg" width="56" alt="Unraid Secretary Office"></a>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/dropnook/UnraidSecretaryOffice">Unraid Secretary Office</a></b><br>
+      <b><a href="https://github.com/dropnook/UnraidSecretaryOffice">Unraid Secretary Office</a></b> · <a href="https://uso.dropnook.app/">uso.dropnook.app</a><br>
       A small office for your Unraid server. Every desk looks after one part of it: snapshots (ZFS, btrfs, VMs),
       backups and restore, logs, a security check, housekeeping and the EmbyCache intern — each one tells you what
       it noticed and, where it makes sense, lets you act on it.<br>
