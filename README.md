@@ -17,7 +17,7 @@ Both projects are complete as they are; nothing is locked behind a payment.
       <a href="https://github.com/dropnook/dropnook.app"><img src="https://raw.githubusercontent.com/dropnook/dropnook.app/main/docs/icon.png" width="56" alt="Dropnook"></a>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/dropnook/dropnook.app">Dropnook</a></b> · <a href="https://dropnook.app/">dropnook.app</a><br>
+      <b><a href="https://github.com/dropnook/dropnook.app">Dropnook</a></b> · <a href="https://dropnook.dropnook.app/">dropnook.dropnook.app</a><br>
       Instant sharing for your home network — like AirDrop, but for every device. Text, files and screenshots between
       phone, laptop and PC in the browser: no app, no login, no cloud. Single files or texts can go out through
       expiring links from a separate, locked-down container.<br>
