@@ -32,10 +32,10 @@ Both projects are complete as they are; nothing is locked behind a payment.
     </td>
     <td valign="top">
       <b><a href="https://github.com/dropnook/UnraidSecretaryOffice">Unraid Secretary Office</a></b> · <a href="https://uso.dropnook.app/">uso.dropnook.app</a><br>
-      A small office for your Unraid server. Every desk looks after one part of it: snapshots (ZFS, btrfs, VMs),
-      backups and restore, logs, a security check, housekeeping and the EmbyCache intern — each one tells you what
-      it noticed and, where it makes sense, lets you act on it.<br>
-      <sub>Runs as a Docker container on Unraid · GPL-3.0</sub><br>
+      A whole team supports you in running your Unraid server: backups and restore, snapshots, a media cache for
+      Emby, Jellyfin and Plex, the mover, a night watchman and every log in one place — each one tells you what it
+      noticed and, where it makes sense, lets you act on it.<br>
+      <sub>An Unraid plugin · GPL-3.0-or-later</sub><br>
       <a href="https://github.com/dropnook/UnraidSecretaryOffice/releases/latest"><img src="https://img.shields.io/github/v/release/dropnook/UnraidSecretaryOffice?style=flat-square&color=ff8c2f&label=release" alt="Latest release"></a>
       <a href="https://github.com/dropnook/UnraidSecretaryOffice/stargazers"><img src="https://img.shields.io/github/stars/dropnook/UnraidSecretaryOffice?style=flat-square&color=ff8c2f" alt="Stars"></a>
     </td>
