@@ -5,9 +5,7 @@
   </picture>
 </h1>
 
-**Self-hosted tools for the home server — made for Unraid, free and open source.**
-Everything here runs on your own hardware: no cloud, no account, no tracking.
-Both projects are complete as they are; nothing is locked behind a payment.
+**Self-hosted tools for the home server — made for Unraid.**
 
 ## Projects
 
@@ -51,7 +49,7 @@ Both projects are complete as they are; nothing is locked behind a payment.
 
 ## Support the work
 
-Both projects are free and stay free. If one of them saves you an evening, a tip is welcome:
+If one of them saves you an evening, a tip is welcome:
 **[paypal.me/dropnook](https://paypal.me/dropnook)** — ideally 5 € / $5 / 5 CHF or more, PayPal keeps a fixed
 fee of every payment.
 
