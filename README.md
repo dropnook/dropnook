@@ -30,9 +30,10 @@
     </td>
     <td valign="top">
       <b><a href="https://github.com/dropnook/UnraidSecretaryOffice">Unraid Secretary Office</a></b> · <a href="https://uso.dropnook.app/">uso.dropnook.app</a><br>
-      A whole team supports you in running your Unraid server: backups and restore, snapshots, a media cache for
-      Emby, Jellyfin and Plex, the mover, a night watchman and every log in one place — each one tells you what it
-      noticed and, where it makes sense, lets you act on it.<br>
+      A whole team supports you in running your Unraid server: backups and restore from every place a copy is kept
+      (local, offsite, a partner server — over the office's own Tailscale network if you like), snapshots, a media
+      cache for Emby, Jellyfin and Plex, the mover, a night watchman and every log in one place — each one tells you
+      what it noticed and, where it makes sense, lets you act on it.<br>
       <sub>An Unraid plugin · GPL-3.0-or-later</sub><br>
       <a href="https://github.com/dropnook/UnraidSecretaryOffice/releases/latest"><img src="https://img.shields.io/github/v/release/dropnook/UnraidSecretaryOffice?style=flat-square&color=ff8c2f&label=release" alt="Latest release"></a>
       <a href="https://github.com/dropnook/UnraidSecretaryOffice/stargazers"><img src="https://img.shields.io/github/stars/dropnook/UnraidSecretaryOffice?style=flat-square&color=ff8c2f" alt="Stars"></a>
@@ -42,9 +43,10 @@
 
 ## How things are built here
 
-* **Runs on your server, nothing else.** No external services, no phoning home, no telemetry.
-* **One container, done.** Install from Docker Compose or the Unraid Apps, open the page, use it.
-* **Light and dark, phone and desktop,** English and German — the whole thing, not only the start page.
+* **Runs on your server.** Nothing leaves it unless you set it up; no telemetry.
+* **One install, done.** A container (Docker Compose or Unraid's Apps) or a plugin (Unraid's Plugins): open the page, use it.
+* **Light and dark, phone and desktop,** English and German (the office also Italian, French and Spanish) — the whole
+  thing, not only the start page.
 * **Honest documentation.** The README says what it does and what it does not do.
 
 ## Support the work
