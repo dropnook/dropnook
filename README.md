@@ -12,10 +12,10 @@
 <table>
   <tr>
     <td width="72" align="center" valign="top">
-      <a href="https://github.com/dropnook/drop"><img src="https://raw.githubusercontent.com/dropnook/drop/main/docs/icon.png" width="56" alt="Dropnook"></a>
+      <a href="https://github.com/dropnook/drop"><img src="https://raw.githubusercontent.com/dropnook/drop/main/docs/icon.png" width="56" alt="Drop"></a>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/dropnook/drop">Dropnook</a></b> · <a href="https://drop.dropnook.app/">drop.dropnook.app</a><br>
+      <b><a href="https://github.com/dropnook/drop">Drop</a></b> · <a href="https://drop.dropnook.app/">drop.dropnook.app</a><br>
       Instant sharing for your home network — like AirDrop, but for every device. Text, files and screenshots between
       phone, laptop and PC in the browser: no app, no login, no cloud. Single files or texts can go out through
       expiring links from a separate, locked-down container.<br>
@@ -52,8 +52,7 @@
 ## Support the work
 
 If one of them saves you an evening, a tip is welcome:
-**[paypal.me/dropnook](https://paypal.me/dropnook)** — ideally 5 € / $5 / 5 CHF or more, PayPal keeps a fixed
-fee of every payment.
+**[paypal.me/dropnook](https://paypal.me/dropnook)**.
 
 Found a bug or have an idea? Open an issue in the project's repository — that is the fastest way to reach me.
 
@@ -61,4 +60,4 @@ Found a bug or have an idea? Open an issue in the project's repository — that 
 
 <sub>Dropnook™ is the project's name; the code is free software, the name and logo identify the official releases
 (<a href="https://github.com/dropnook/drop/blob/main/TRADEMARKS.md">TRADEMARKS.md</a>).
-<i>Deutsch:</i> Dropnook gibt es auch mit <a href="https://github.com/dropnook/drop/blob/main/README.de.md">deutschem README</a>; beide Projekte laufen auf Deutsch und Englisch.</sub>
+<i>Deutsch:</i> Drop gibt es auch mit <a href="https://github.com/dropnook/drop/blob/main/README.de.md">deutschem README</a>; beide Projekte laufen auf Deutsch und Englisch.</sub>
