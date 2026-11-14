@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td width="72" align="center" valign="top">
-      <a href="https://github.com/dropnook/UnraidSecretaryOffice"><img src="https://raw.githubusercontent.com/dropnook/dropnook/main/.github/uso-icon.svg" width="56" alt="Unraid Secretary Office"></a>
+      <a href="https://github.com/dropnook/UnraidSecretaryOffice"><img src="https://raw.githubusercontent.com/dropnook/UnraidSecretaryOffice/main/.github/logo.svg" width="56" alt="Unraid Secretary Office"></a>
     </td>
     <td valign="top">
       <b><a href="https://github.com/dropnook/UnraidSecretaryOffice">Unraid Secretary Office</a></b> · <a href="https://uso.dropnook.app/">uso.dropnook.app</a><br>
