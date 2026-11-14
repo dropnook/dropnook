@@ -19,7 +19,7 @@
       Instant sharing for your home network — like AirDrop, but for every device. Text, files and screenshots between
       phone, laptop and PC in the browser: no app, no login, no cloud. Single files or texts can go out through
       expiring links from a separate, locked-down container.<br>
-      <sub>Docker image <code>ghcr.io/dropnook/dropnook:2</code> · AGPL-3.0</sub><br>
+      <sub>Docker image <code>ghcr.io/dropnook/drop:2</code> · AGPL-3.0</sub><br>
       <a href="https://github.com/dropnook/drop/releases/latest"><img src="https://img.shields.io/github/v/release/dropnook/drop?style=flat-square&color=54C0C4&label=release" alt="Latest release"></a>
       <a href="https://github.com/dropnook/drop/stargazers"><img src="https://img.shields.io/github/stars/dropnook/drop?style=flat-square&color=54C0C4" alt="Stars"></a>
     </td>
