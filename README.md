@@ -5,7 +5,7 @@
   </picture>
 </h1>
 
-**Self-hosted tools for the home server — made for Unraid.**
+**Self-hosted tools for the home server — made for Unraid or Docker.**
 
 ## Projects
 
