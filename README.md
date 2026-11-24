@@ -49,6 +49,27 @@
   thing, not only the start page.
 * **Honest documentation.** The README says what it does and what it does not do.
 
+## Also by dropnook
+
+Not for your server — ready to use as it is.
+
+<table>
+  <tr>
+    <td width="72" align="center" valign="top">
+      <a href="https://github.com/dropnook/zeropunch"><img src="https://raw.githubusercontent.com/dropnook/zeropunch/main/docs/icon.png" width="56" alt="Zeropunch"></a>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/dropnook/zeropunch">Zeropunch</a></b> · <a href="https://zeropunch.dropnook.app/">zeropunch.dropnook.app</a><br>
+      A punch clock that knows nothing about you. One button, «Punch», and a list of your times — on your phone, in
+      the browser. Every punch is encrypted in the browser; the server never sees a working time. No e-mail, no real
+      name.<br>
+      <sub>A web app, nothing to install · AGPL-3.0</sub><br>
+      <a href="https://zeropunch.dropnook.app/"><img src="https://img.shields.io/badge/open-zeropunch.dropnook.app-FF6B4A?style=flat-square" alt="Open Zeropunch"></a>
+      <a href="https://github.com/dropnook/zeropunch/stargazers"><img src="https://img.shields.io/github/stars/dropnook/zeropunch?style=flat-square&color=FF6B4A" alt="Stars"></a>
+    </td>
+  </tr>
+</table>
+
 ## Support the work
 
 If one of them saves you an evening, a tip is welcome:
@@ -60,4 +81,4 @@ Found a bug or have an idea? Open an issue in the project's repository — that 
 
 <sub>Dropnook™ is the project's name; the code is free software, the name and logo identify the official releases
 (<a href="https://github.com/dropnook/drop/blob/main/TRADEMARKS.md">TRADEMARKS.md</a>).
-<i>Deutsch:</i> Drop gibt es auch mit <a href="https://github.com/dropnook/drop/blob/main/README.de.md">deutschem README</a>; beide Projekte laufen auf Deutsch und Englisch.</sub>
+<i>Deutsch:</i> Drop gibt es auch mit <a href="https://github.com/dropnook/drop/blob/main/README.de.md">deutschem README</a>; alle Projekte laufen auf Deutsch und Englisch.</sub>
