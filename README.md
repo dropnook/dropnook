@@ -5,7 +5,7 @@
   </picture>
 </h1>
 
-**Self-hosted tools for the home server — made for Unraid or Docker.**
+**Free, open-source tools you run yourself — for the home server with Unraid or Docker, and a punch clock for the browser.**
 
 ## Projects
 
@@ -59,8 +59,10 @@
 
 ## How things are built here
 
-* **Runs on your server.** Nothing leaves it unless you set it up; no telemetry.
-* **One install, done.** A container (Docker Compose or Unraid's Apps) or a plugin (Unraid's Plugins): open the page, use it.
+* **Yours to run.** Drop and the office run on your server, and nothing leaves it unless you set it up. Zeropunch runs in your
+  browser: use it at zeropunch.app or host your own copy. No telemetry in any of them.
+* **One install, done.** On the server: a container (Docker Compose or Unraid's Apps) or a plugin (Unraid's Plugins). Open the
+  page, use it. Zeropunch needs no install at all.
 * **Light and dark, phone and desktop,** English and German (the office also Italian, French and Spanish) — the whole
   thing, not only the start page.
 * **Honest documentation.** The README says what it does and what it does not do.
