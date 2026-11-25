@@ -61,7 +61,8 @@ Not for your server — ready to use as it is.
     <td valign="top">
       <b><a href="https://github.com/dropnook/zeropunch">Zeropunch</a></b> · <a href="https://zeropunch.dropnook.app/">zeropunch.dropnook.app</a><br>
       A punch clock that knows nothing about you. One button, «Punch», and a list of your times — on your phone, in
-      the browser. Every punch is encrypted in the browser; the server never sees a working time. No e-mail, no real
+      the browser. Punch with an NFC sticker: hold your phone to a sticker on your locker or desk, and the punch is
+      made. Every punch is encrypted in the browser; the server never sees a working time. No e-mail, no real
       name.<br>
       <sub>A web app, nothing to install · AGPL-3.0</sub><br>
       <a href="https://zeropunch.dropnook.app/"><img src="https://img.shields.io/badge/open-zeropunch.dropnook.app-FF6B4A?style=flat-square" alt="Open Zeropunch"></a>
