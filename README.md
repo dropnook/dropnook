@@ -65,6 +65,7 @@ Not for your server — ready to use as it is.
       and the punch is made. Every punch is encrypted in the browser; the server never sees a working time. No e-mail, no real
       name.<br>
       <sub>A web app, nothing to install · AGPL-3.0</sub><br>
+      <a href="https://github.com/dropnook/zeropunch/releases/latest"><img src="https://img.shields.io/github/v/release/dropnook/zeropunch?style=flat-square&color=FF6B4A&label=release" alt="Latest release"></a>
       <a href="https://zeropunch.dropnook.app/"><img src="https://img.shields.io/badge/open-zeropunch.dropnook.app-FF6B4A?style=flat-square" alt="Open Zeropunch"></a>
       <a href="https://github.com/dropnook/zeropunch/stargazers"><img src="https://img.shields.io/github/stars/dropnook/zeropunch?style=flat-square&color=FF6B4A" alt="Stars"></a>
     </td>
