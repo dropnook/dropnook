@@ -39,21 +39,6 @@
       <a href="https://github.com/dropnook/UnraidSecretaryOffice/stargazers"><img src="https://img.shields.io/github/stars/dropnook/UnraidSecretaryOffice?style=flat-square&color=ff8c2f" alt="Stars"></a>
     </td>
   </tr>
-</table>
-
-## How things are built here
-
-* **Runs on your server.** Nothing leaves it unless you set it up; no telemetry.
-* **One install, done.** A container (Docker Compose or Unraid's Apps) or a plugin (Unraid's Plugins): open the page, use it.
-* **Light and dark, phone and desktop,** English and German (the office also Italian, French and Spanish) — the whole
-  thing, not only the start page.
-* **Honest documentation.** The README says what it does and what it does not do.
-
-## Also by dropnook
-
-Not for your server — ready to use as it is.
-
-<table>
   <tr>
     <td width="72" align="center" valign="top">
       <a href="https://github.com/dropnook/zeropunch"><img src="https://raw.githubusercontent.com/dropnook/zeropunch/main/docs/icon.png" width="56" alt="Zeropunch"></a>
@@ -64,13 +49,21 @@ Not for your server — ready to use as it is.
       the browser. Punch with an NFC sticker: hold your phone to a sticker on your locker, desk, notebook or bag,
       and the punch is made. Every punch is encrypted in the browser; the server never sees a working time. No e-mail, no real
       name.<br>
-      <sub>A web app, nothing to install · AGPL-3.0</sub><br>
+      <sub>A web app: use it right away at <a href="https://zeropunch.app/">zeropunch.app</a>, or run your own copy · AGPL-3.0</sub><br>
       <a href="https://github.com/dropnook/zeropunch/releases/latest"><img src="https://img.shields.io/github/v/release/dropnook/zeropunch?style=flat-square&color=FF6B4A&label=release" alt="Latest release"></a>
       <a href="https://zeropunch.dropnook.app/"><img src="https://img.shields.io/badge/open-zeropunch.dropnook.app-FF6B4A?style=flat-square" alt="Open Zeropunch"></a>
       <a href="https://github.com/dropnook/zeropunch/stargazers"><img src="https://img.shields.io/github/stars/dropnook/zeropunch?style=flat-square&color=FF6B4A" alt="Stars"></a>
     </td>
   </tr>
 </table>
+
+## How things are built here
+
+* **Runs on your server.** Nothing leaves it unless you set it up; no telemetry.
+* **One install, done.** A container (Docker Compose or Unraid's Apps) or a plugin (Unraid's Plugins): open the page, use it.
+* **Light and dark, phone and desktop,** English and German (the office also Italian, French and Spanish) — the whole
+  thing, not only the start page.
+* **Honest documentation.** The README says what it does and what it does not do.
 
 ## Support the work
 
