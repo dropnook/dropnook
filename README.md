@@ -80,6 +80,6 @@ Found a bug or have an idea? Open an issue in the project's repository — that 
 
 ---
 
-<sub>Dropnook™ is the project's name; the code is free software, the name and logo identify the official releases
+<sub>© 2026 Benjamin Müller (dropnook). Dropnook™ is the project’s name; the code is free software, the name and logo identify the official releases
 (<a href="https://github.com/dropnook/drop/blob/main/TRADEMARKS.md">TRADEMARKS.md</a>).
 <i>Deutsch:</i> Drop gibt es auch mit <a href="https://github.com/dropnook/drop/blob/main/README.de.md">deutschem README</a>; alle Projekte laufen auf Deutsch und Englisch.</sub>
